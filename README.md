@@ -1,6 +1,6 @@
 # STUDY TITLE
 
-Timbre-baseD [...]
+Timbre-based [...]
 
 
 # CONTACT DETAILS
