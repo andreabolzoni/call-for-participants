@@ -9,7 +9,7 @@ Principal Investigator (PI): Andrea Bolzoni
 
 Email: andrea.bolzoni@open.ac.uk 
 
-Mobile: 07775 459547<br/><br/>
+Mobile: 07775 459547<br/>
 
 
 Alternative contact: Prof Robin Laney
