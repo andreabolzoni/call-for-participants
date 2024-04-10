@@ -21,13 +21,13 @@ Alternative contact: Prof Robin Laney
 
 Email: robin.laney@open.ac.uk
 
-Telephone: 01908 654342
+Telephone: 01908 654342<br/><br/>
 
 
 
 # INVITATION
 
-You are being invited to take part in a research study. Before you decide whether or not to take part, it is important for you to understand why the research is being done and what it will involve. Please take time to read the following information carefully.
+You are being invited to take part in a research study. Before you decide whether or not to take part, it is important for you to understand why the research is being done and what it will involve. Please take time to read the following information carefully.<br/><br/>
 
 
 # GENERAL INFORMATION ABOUT THE RESEARCH STUDY AND COLLECTED RESEARCH DATA
@@ -46,7 +46,7 @@ If you give consent, the artificial intelligence models trained during the sessi
 
 This research is funded by the Open University as part of the Principal Investigator's doctoral studies.
 
-This research project has been reviewed by, and received a favourable opinion from, The Open University Human Research Ethics Committee – HREC reference number: 2024-0185-1.
+This research project has been reviewed by, and received a favourable opinion from, The Open University Human Research Ethics Committee – HREC reference number: 2024-0185-1.<br/><br/>
 
 
 # WHAT WILL I BE ASKED TO DO IF I AGREE TO TAKE PART? 
@@ -57,7 +57,7 @@ When you agree to take part to the study, you will be asked to participate in fo
 
 The format of the study will be of a short course, where the interactive music system will take, to some extent, the role of a teacher. During the session, you will be asked to play short phrases for which the main attribute will be timbre, as opposed to pitch. We will be looking at what kind of support the system can provide you with in expanding the vocabulary of a set of sounds you want to explore. Optionally, you can provide any further comment or thought in between sessions, written or as a voice note, and up to one week after the last session.
 
-The outcome of this study will provide us with new knowledge about how we can improve music interactive systems for musical practices that are oriented to timbre. Also, we may be able to gain more understanding on how timbre is used and interpreted in musical practices where pitch is not the most relevant attribute.
+The outcome of this study will provide us with new knowledge about how we can improve music interactive systems for musical practices that are oriented to timbre. Also, we may be able to gain more understanding on how timbre is used and interpreted in musical practices where pitch is not the most relevant attribute.<br/><br/>
 
 
 # HOW WILL THE DATA I PROVIDE BE USED?
@@ -68,17 +68,17 @@ The audio recordings of the conversations will be transcribed and anonymised. Th
 
 The signed consent forms will be digitalised and retained by the Open University beyond the course of the project.
 
-The research findings will be submitted as research papers for conferences and/or scientific journal, along with being included in the Principal Investigator’s PhD thesis. Quotes and information about the extracts of the music performance will be anonymised. 
+The research findings will be submitted as research papers for conferences and/or scientific journal, along with being included in the Principal Investigator’s PhD thesis. Quotes and information about the extracts of the music performance will be anonymised. <br/><br/>
 
 
 # YOUR RIGHT TO WITHDRAW FROM THE STUDY
 
-You have the right to withdraw from the study and ask for your data to be removed by sending an email to the Principal Investigator up until one week after the last of the four sessions has taken place.
+You have the right to withdraw from the study and ask for your data to be removed by sending an email to the Principal Investigator up until one week after the last of the four sessions has taken place. <br/><br/>
 
 
 # THANK YOU
 
-Thank you for taking the time to read this information sheet.
+Thank you for taking the time to read this information sheet. <br/><br/>
 
 
 # DATA PROTECTION
