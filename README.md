@@ -71,11 +71,6 @@ The research findings will be submitted as research papers for conferences and/o
 You have the right to withdraw from the study and ask for your data to be removed by sending an email to the Principal Investigator up until one week after the last of the four sessions has taken place.
 
 
-# HOW DO I AGREE TO TAKE PART?
-
-To agree to take part to the study, sign the consent form provided along with this information sheet.
-
-
 # THANK YOU
 
 Thank you for taking the time to read this information sheet.
