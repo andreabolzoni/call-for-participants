@@ -6,11 +6,16 @@ Timbre-based music interactive system: investigating the impact of modelling and
 # CONTACT DETAILS
 
 Principal Investigator (PI): Andrea Bolzoni
+
 Email: andrea.bolzoni@open.ac.uk 
+
 Mobile: 07775 459547
 
+
 Alternative contact: Prof Robin Laney
+
 Email: robin.laney@open.ac.uk
+
 Telephone: 01908 654342
 
 
