@@ -1,6 +1,6 @@
----
-title: Timbre-based music interactive system
----
+<!-- --- -->
+<!-- title: Timbre-based music interactive system -->
+<!-- --- -->
 
 
 # STUDY TITLE
