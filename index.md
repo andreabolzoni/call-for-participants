@@ -1,3 +1,8 @@
+---
+title: Your Page Title
+---
+
+
 # STUDY TITLE
 
 Timbre-based music interactive system: investigating the impact of modelling and variation of timbre-related features in human-machine interaction.
