@@ -62,13 +62,13 @@ The outcome of this study will provide us with new knowledge about how we can im
 
 # HOW WILL THE DATA I PROVIDE BE USED?
 
-The collected data will be stored on a computer protected by a password, and backup copies will be stored on Microsoft OneDrive and on an encrypted external hard drive. Once the findings will be written up, your anonymised data will be transferred to the Open Research Data Online (ORDO), which is The Open University's research data repository, and stored for at least 10 years. The data you will give consent for will be made publicly accessible on ORDO for at least 10 years. No personal data will be transferred to ORDO.
+The collected data will be stored on a computer protected by a password, and backup copies will be stored on Microsoft OneDrive and on an encrypted external hard drive. Once the findings are written up, your anonymised data will be transferred to the Open Research Data Online (ORDO), which is The Open University's research data repository, and stored for at least 10 years. The data you will give consent for will be made publicly accessible on ORDO for at least 10 years. No personal data will be transferred to ORDO.
 
 The audio recordings of the conversations will be transcribed and anonymised. The audio will be destroyed after they have been transcribed. Optional voice notes that you provide will be transcribed and anonymised. The audio will be destroyed after the transcription. Optional written notes will be transcribed and anonymised. The original written notes will be destroyed after they have been transcribed.
 
 The signed consent forms will be digitalised and retained by the Open University beyond the course of the project.
 
-The research findings will be submitted as research papers for conferences and/or scientific journal, along with being included in the Principal Investigator’s PhD thesis. Quotes and information about the extracts of the music performance will be anonymised. <br/><br/>
+The research findings will be submitted as research papers for conferences and/or scientific journals, along with being included in the Principal Investigator’s PhD thesis. Quotes and information about the extracts of the music performance will be anonymised. <br/><br/>
 
 
 # YOUR RIGHT TO WITHDRAW FROM THE STUDY
